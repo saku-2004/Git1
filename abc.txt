@@ -9,3 +9,4 @@ KNN
 K-means
 decision tree
 Artificial Neural Network
+Convolutional Neural Network
