@@ -5,3 +5,4 @@ lets learn some concept of machine learning.
 linear Regression
 logistic Regression
 SVM
+KNN
