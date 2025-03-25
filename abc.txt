@@ -6,3 +6,4 @@ linear Regression
 logistic Regression
 SVM
 KNN
+K-means
